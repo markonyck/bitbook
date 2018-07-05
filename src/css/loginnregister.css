@@ -1,0 +1,21 @@
+.form-wrapper {
+    border: 1px solid black;
+}
+
+.form-wrapper {
+    margin-top: 60px;
+}
+
+.login-form {
+    padding: 20px;
+}
+
+.active1 {
+    background-color: #ee6e73;
+    color: white;
+    border-radius: 4px;
+}
+
+.login-text {
+    padding: 40px;
+}

@@ -1,0 +1,15 @@
+.color-red {
+    color: red;
+}
+
+.singleImage {
+  display: block;
+  width: 100%;
+}
+
+.comment-button {
+  background-color: rgb(216, 143, 131);
+  border-radius: 30px;
+  margin-bottom: 5%;
+  
+}

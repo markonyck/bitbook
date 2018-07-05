@@ -1,0 +1,64 @@
+img.img {
+    display: block;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 6%;
+
+}
+
+.comment-button {
+    background-color: rgb(216, 143, 131);
+    border-radius: 30px;
+    margin-bottom: 5%;
+    
+}
+.about-short {
+    margin-top: 6%;
+    margin-bottom: 10%
+}
+
+.upload-button {
+    margin-top: 3%;
+    padding-top: 7px;
+    padding-bottom: 7px;
+
+}
+
+.type-upload {
+    margin-top: 3%;
+}
+
+
+
+.modal-style {
+   width: 60%;
+   max-height: 100%; 
+   overflow-y: hidden !important;
+   padding-top: 60px;
+}
+
+.overlay-modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(0,0,0,0.1);
+    z-index: 10000000;
+  }
+
+.upload-photo {
+    margin-bottom: 3%;
+}
+
+#cancel {
+margin-right: 10px;
+}
+
+.preview-image {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 2%;
+}

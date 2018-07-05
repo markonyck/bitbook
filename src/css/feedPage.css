@@ -1,0 +1,23 @@
+.video-post {
+    padding-top: 20px;
+}
+
+/* .card-action {
+    padding-top: 5%;
+    /* padding-bottom: 5%; */
+/* } */ 
+
+/* .card-image {
+    padding: 5%;
+} */
+
+.card-video {
+    margin-top: 20px;
+    margin-bottom: 20px ;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.post-color {
+    color: black;
+}
